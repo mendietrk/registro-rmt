@@ -27,7 +27,8 @@
             <td><%= ubicacion.latitud %></td>
             <td><%= ubicacion.longitud %></td>
             <td><%= ubicacion.entrada %></td>
-            <td><%= new Date(ubicacion.fechaHora).toLocaleString() %></td>
+            <td><%= new Date(ubicacion.fechaHora).toLocaleString('es-GT', { timeZone: 'America/Guatemala' }) %></td>
+
             <td>
                 <!-- Botón Ver en Google Maps -->
                 <a href="https://www.google.com/maps?q=<%= ubicacion.latitud %>,<%= ubicacion.longitud %>" 
