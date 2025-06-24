@@ -198,4 +198,4 @@ En otras inovaciones se usa un metodo simplificado para cargar las variables que
 
 12 de mayo de 2025
 
-se hacen cambios en la configuracion de la opcion para convertir a PDF la información renderizada, se incluye foto en el punto 14. implica cambio en la vista, la ruta y en la base de datos se debe ingresar el enlace de dropbox con terminacion raw=1
+se hacen cambios en la configuracion de la opcion para convertir a PDF la información renderizada, se incluye foto en el punto 14. implica cambio en la vista, la ruta y en la base de datos se debe ingresar el enlace de dropbox con terminacion raw=1# registro-rmt
